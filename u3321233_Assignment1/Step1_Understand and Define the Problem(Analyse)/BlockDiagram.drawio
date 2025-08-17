@@ -1,0 +1,76 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="DzVV96pzFvEH-hi5T3so">
+    <mxGraphModel dx="1090" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MA_jzKArDTouUwH-SDCZ-22" value="Microcontroller&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MA_jzKArDTouUwH-SDCZ-25" value="Real-time clock" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MA_jzKArDTouUwH-SDCZ-27" value="food level sensor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MA_jzKArDTouUwH-SDCZ-28" value="weight sensor under bowl" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="470" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MA_jzKArDTouUwH-SDCZ-29" value="mortor" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="670" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MA_jzKArDTouUwH-SDCZ-30" value="alert&amp;nbsp; signal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MA_jzKArDTouUwH-SDCZ-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MA_jzKArDTouUwH-SDCZ-22" target="MA_jzKArDTouUwH-SDCZ-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="550" as="sourcePoint" />
+            <mxPoint x="280" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MA_jzKArDTouUwH-SDCZ-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.833;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MA_jzKArDTouUwH-SDCZ-22" target="MA_jzKArDTouUwH-SDCZ-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="340" as="sourcePoint" />
+            <mxPoint x="310" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MA_jzKArDTouUwH-SDCZ-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MA_jzKArDTouUwH-SDCZ-22" target="MA_jzKArDTouUwH-SDCZ-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="420" as="sourcePoint" />
+            <mxPoint x="626" y="562" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MA_jzKArDTouUwH-SDCZ-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MA_jzKArDTouUwH-SDCZ-22" target="MA_jzKArDTouUwH-SDCZ-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="320" as="sourcePoint" />
+            <mxPoint x="300" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MA_jzKArDTouUwH-SDCZ-36" value="Step1 understandi and Define the Problme (Analyse)&lt;div&gt;Block diagram&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="50" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MA_jzKArDTouUwH-SDCZ-38" value="warming whem somethig go wrong" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-60;" vertex="1" parent="1">
+          <mxGeometry x="270" y="370" width="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MA_jzKArDTouUwH-SDCZ-39" value="monitor for food level" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="254" width="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MA_jzKArDTouUwH-SDCZ-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.825;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MA_jzKArDTouUwH-SDCZ-22" target="MA_jzKArDTouUwH-SDCZ-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="445" y="330" as="sourcePoint" />
+            <mxPoint x="360" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MA_jzKArDTouUwH-SDCZ-43" value="monitor for food dispense" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-105;" vertex="1" parent="1">
+          <mxGeometry x="400.00165124598857" y="370" width="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MA_jzKArDTouUwH-SDCZ-44" value="for rotate dispense&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=40;" vertex="1" parent="1">
+          <mxGeometry x="510" y="300" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MA_jzKArDTouUwH-SDCZ-45" value="current time/Local time" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-25;" vertex="1" parent="1">
+          <mxGeometry x="189.99517870878944" y="320.0032379316638" width="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

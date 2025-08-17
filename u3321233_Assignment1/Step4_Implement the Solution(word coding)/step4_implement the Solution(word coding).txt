@@ -1,0 +1,23 @@
+Step4 Implement the Solution (word coding)
+
+There are 5 variable 
+1. Real-time clock
+2. Food level sensor
+3. Weight sensor
+4. Motor
+5. Alert system
+
+1 on the system 
+   Check the feeding time
+If correct time at 8am and 6pm 
+Check the food level greater than 20 cm the alert system send “no food”
+If the food level less than 5 cm the alert system send “full” continue to next step
+2 Dispense food
+Wait and check the weight bowl change or unchanged 
+Read the bowl weight 
+If the bowl weight change send alert “pet has eaten”
+If not send alert “food not eaten”
+Wait before next check 10 minutes
+
+
+

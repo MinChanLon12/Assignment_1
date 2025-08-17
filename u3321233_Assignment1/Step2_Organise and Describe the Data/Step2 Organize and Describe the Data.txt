@@ -1,0 +1,12 @@
+Step2: Organize and Describe the Data
+Input
+1. Real-time clock
+2. Food level sensor
+3. Weight sensor under bowl or container 
+Expected output
+1. rotate motor 
+2. Alert LED or any voice/sound 
+Every 30 minutes check time
+
+
+VariableType  Sample valuesOperational parametersReal-time clockInput8am and 6pmCheck every 30 minutesFood level sensorInput5 cm(full) 20 cm (low)When alert exceed 12 cmWeight sensor under bowlInput 0-100gAverage 500gRotate motoroutput1 – 8 secondsRuntime 5 secondsSend alert systemoutputNO/OFF120 seconds for per alertData table

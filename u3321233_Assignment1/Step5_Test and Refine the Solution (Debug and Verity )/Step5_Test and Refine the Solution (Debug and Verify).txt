@@ -1,0 +1,16 @@
+Step5 Test and Refine he Solution (Debug and Verify)
+
+1 pet eats as expected 
+Input: When the feed time correct at 8am and 6pm. The system provide motor rotate to dispense food into bowl. The weight sensor shows signal after pet eats 10 minutes
+Output: no error alert 
+2. Pet does not eat 
+Input: the feeding time correct, and food dispensed the sensor unchanged after 10 minutes 
+Output: the alert sent “food not eaten”
+3. Food bin is empty
+Input: the feeding time correct, sensor show container empty. And the motor rotate but no food.
+Output: Alert sent “no food “
+All the steps are output matched.
+The food could be dispense directly by any if needed
+
+
+

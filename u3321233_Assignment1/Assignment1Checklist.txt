@@ -1,0 +1,24 @@
+
+Assignment1: The solving Problem process 
+
+Checklist Part 1
+? Clearly labelled sections for each problem-solving
+? System sketch or diagram (step 1)
+? Data table (step 2)
+? Flowchart created with Draw.io (step 3)
+? Written Sequence of Tasks (step 4)
+? Sample test case and discussion (step 5)
+
+Checklist part 2
+? GitHub repository link is included
+? Student’s GitHub is well structured
+
+Checklist part 3
+? Reflection of 150-250 words
+
+
+All the lists  ticked
+
+
+
+

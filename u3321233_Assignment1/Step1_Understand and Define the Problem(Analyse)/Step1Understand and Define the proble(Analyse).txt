@@ -1,0 +1,21 @@
+
+Step1: Understand and Define the Problem (Analyse)
+
+My Automated Pet Feeder System is to make the user fed their pet easy when they busy, when they been away and save time and low-cost.
+1 The feature 
+       Software: programing language 
+       Hardware: Microcontroller
+       Alert system
+       Container and to store food amount
+2. Input and output needed
+	Real-time clock, food level sensor, and weight sensor.
+	Motor 
+	Alert signal
+3. Assumption
+       Dry food for (Dispense food)
+       For the memory will delete automatically after 30 days
+	
+	
+	
+	
+ 
